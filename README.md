@@ -1,4 +1,4 @@
-# Kit A.A.A.E.S.U.C — Catálogo Oficial 2024
+# Kit A.A.A.E.S.U.C — Catálogo Oficial 2026
 
 Catálogo de produtos da Associação Atlética Acadêmica de Engenharia de Software.
 
