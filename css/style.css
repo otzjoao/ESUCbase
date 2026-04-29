@@ -111,7 +111,7 @@ body {
 .section-cat {
   font-size: 9px;
   letter-spacing: 6px;
-  color: #4CAF50;
+  color: #75ff7a;
   text-transform: uppercase;
   margin-bottom: 2px;
 }
@@ -215,7 +215,7 @@ body {
 
 .card-desc {
   font-size: 11px;
-  color: #2a5a2a;
+  color: #79fa79;
   margin-top: 4px;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -231,7 +231,7 @@ body {
 .chip {
   font-size: 8px;
   letter-spacing: 3px;
-  color: #1e4a1e;
+  color: #539b53;
   border: 1px solid #152615;
   padding: 3px 10px;
   border-radius: 1px;
@@ -261,7 +261,7 @@ body {
 .color-label {
   font-size: 9px;
   letter-spacing: 3px;
-  color: #2a5a2a;
+  color: #70ec70;
   text-transform: uppercase;
 }
 
